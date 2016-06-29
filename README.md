@@ -1,5 +1,13 @@
 #Conteúdo para estudo da língua inglesa
 
+###Link's para estudo
+
+[Conteudo Completo de inglês - Curso de ingles gratis](http://www.cursodeinglesgratis.org/)
+
+[Learn English](http://www.learnenglish.de/)
+
+[Conteudo Diverso sobre lingua inglesa](http://www.englishexperts.com.br/)
+
 ###Roteiro de estudo parte I
 
 * Alphabet
@@ -105,9 +113,3 @@
 * Parts of the Body
 * Modals (Shall / Ought to / Had better)
 * Health & Diseases
-
-[Conteudo Completo de inglês - Curso de ingles gratis](http://www.cursodeinglesgratis.org/)
-
-[Learn English](http://www.learnenglish.de/)
-
-[Conteudo Diverso sobre lingua inglesa](http://www.englishexperts.com.br/)
