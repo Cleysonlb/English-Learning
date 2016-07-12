@@ -8,6 +8,12 @@
 
 [Conteudo Diverso sobre lingua inglesa](http://www.englishexperts.com.br/)
 
+###Canais Youtube para estudo
+
+[English Lesson 4U - Ronnie (Inglês)](https://www.youtube.com/c/engvidronnie/videos)
+
+[English Lesson 4U - James (Inglês)](https://www.youtube.com/c/engvidjames/videos)
+
 ###Roteiro de estudo parte I
 
 * Alphabet
